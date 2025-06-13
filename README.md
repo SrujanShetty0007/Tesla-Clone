@@ -2,13 +2,18 @@
 
 A modern, responsive clone of the Tesla website built with HTML, CSS, and JavaScript. This project replicates the sleek design and interactive features of Tesla's official website.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://tesla-clone-srujan.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrujanShetty0007/Tesla-Clone)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srujan-shetty0007/)
+<div align="center">
+  
+  [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20Site-brightgreen?style=for-the-badge&logo=netlify)](https://tesla-clone-srujan.netlify.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/SrujanShetty0007/Tesla-Clone.git)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srujan-shetty0007/)
+  
+</div>
 
 ![Tesla Clone Preview](images/Model3.jpg)
 
 ## 🚀 Live Demo
+
 Check out the live demo: [Tesla Clone](https://tesla-clone-srujan.netlify.app/)
 
 ## Features
@@ -141,11 +146,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Connect with Me
 
-- GitHub: [@SrujanShetty0007](https://github.com/SrujanShetty0007)
-- LinkedIn: [Srujan S Shetty](https://www.linkedin.com/in/srujan-shetty0007/)
-- Instagram: [@srujan_shetty_0007](https://www.instagram.com/srujan_shetty_0007/)
-
----
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3E6AE1&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!;Feel+free+to+star+this+repo!" alt="Typing SVG" />
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-@SrujanShetty0007-181717?style=for-the-badge&logo=github)](https://github.com/SrujanShetty0007)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srujan_S_Shetty-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srujan-shetty0007/)
+  [![Instagram](https://img.shields.io/badge/Instagram-@srujan__shetty__0007-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/srujan_shetty_0007/)
+  
+</div>
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!)
+  
 </div>
